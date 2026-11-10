@@ -1,0 +1,11 @@
+
+/.venv/
+/traffic-sign-detection-vietnam/
+/dataset/
+/dataset_goc/
+/runs/
+/ket_qua/
+__pycache__/
+*.zip
+*.pt
+!/models/best.pt
